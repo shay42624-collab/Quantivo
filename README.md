@@ -1,0 +1,2 @@
+# Quantivo
+Zynova is a next-gen AI company that transforms data into insight. We specialize in customer segmentation, predictive analytics, and intelligent automation. Our mission is to make AI elegant, accessible, and indispensable—empowering businesses to act with clarity, scale with precision, and grow smarter.
